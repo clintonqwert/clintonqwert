@@ -1,25 +1,30 @@
 # Clinton Jay Ramonida
 
-Senior full-stack engineer in Vancouver, BC. I spent six and a half years on a national automotive SaaS platform: at Convertus, then at AutoTrader.ca after the platform moved there in 2020. Since 2026 I've shipped two live sites on my own, with a five-role AI workflow I designed.
+I'm a senior full-stack engineer in Vancouver, BC.
 
-Open to senior full-stack, AI-enabled, and FDE roles. Hybrid preferred, remote or on-site welcome. Canadian citizen, no sponsorship needed.
+For six and a half years I worked on a national automotive SaaS platform, at Convertus and then at AutoTrader.ca. Since 2026 I've built two live websites on my own.
 
-[clintonramonida.ca](https://clintonramonida.ca) · [LinkedIn](https://www.linkedin.com/in/clintonramonida/) · [clintonramonida25@gmail.com](mailto:clintonramonida25@gmail.com)
+**Looking for:** a senior full-stack, AI-enabled, or forward-deployed engineer (FDE) role. I prefer hybrid, and I'm open to remote or on-site. I'm a Canadian citizen, so you don't need to sponsor me.
 
-## Work you can open
+[clintonramonida.ca](https://clintonramonida.ca) · [LinkedIn](https://www.linkedin.com/in/clintonramonida/) · [Email](mailto:clintonramonida25@gmail.com)
 
-| Project | What I built | Code |
-| --- | --- | --- |
-| **[DriftPilot](https://driftpilot.ca)** | My studio's site, alone: services, pricing, and two lead funnels. Lighthouse CI holds every pull request to a performance budget, and Vitest covers the lead pipeline. | [driftpilot-site](https://github.com/clintonqwert/driftpilot-site) |
-| **[Riflessi Auto Care](https://riflessiautocare.ca)** | A second business on the same foundation, in five weeks. I cut its 3D hero from 19 MB to 2 MB and kept the home shop's address out of every photo. | [riflessiautocare](https://github.com/clintonqwert/riflessiautocare) |
-| **[Portfolio](https://clintonramonida.ca)** | Case studies from the automotive platform years, my roadmap, and the gaps I haven't closed. A build check fails if a retired claim comes back. | [portfolio](https://github.com/clintonqwert/portfolio) |
+## Projects
 
-## How I work with AI
+**[DriftPilot](https://driftpilot.ca)** · [code](https://github.com/clintonqwert/driftpilot-site)\
+My studio's website, which I built alone. I set up a speed check that runs on every pull request, plus tests for the contact forms.
 
-I deliver through five AI roles with written contracts. One role writes code. The reviewer, tester, auditor, and content strategist report findings rated P0 to P2, and I decide what ships. Those limits live in each role's instructions; no tool permission enforces them.
+**[Riflessi Auto Care](https://riflessiautocare.ca)** · [code](https://github.com/clintonqwert/riflessiautocare)\
+A site for a car detailing business. I built it in five weeks on DriftPilot's foundation and shrank its 3D car model from 19 MB to 2 MB.
 
-[DriftPilot #54](https://github.com/clintonqwert/driftpilot-site/pull/54) shows one full cycle. The reviewer flagged that a 200 from Formspree might not prove a lead arrived, the tester found a bug on the retry path, and I chose how a failed lead gets recovered.
+**[Portfolio](https://clintonramonida.ca)** · [code](https://github.com/clintonqwert/portfolio)\
+My case studies from the automotive platform years, and my roadmap.
 
-## Stack
+## How I use AI
 
-TypeScript · React 19 · Next.js (App Router, Server Actions) · Tailwind CSS · Node.js · PHP · MySQL · Redis · AWS · Vercel · GitHub Actions · Vitest · Lighthouse CI
+I split my work between five AI roles. One writes the code. The other four review it, test it, audit it, and check the writing, then report to me. I decide what ships.
+
+You can follow one full round in [DriftPilot pull request #54](https://github.com/clintonqwert/driftpilot-site/pull/54).
+
+## Tools
+
+TypeScript, React, Next.js, Node.js, PHP, MySQL, Redis, AWS, Vercel
